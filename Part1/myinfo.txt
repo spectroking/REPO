@@ -1,3 +1,8 @@
 King Martin
+<<<<<<< HEAD
 123-456-7890
 martinkl8
+=======
+23220
+martinkl8@vcu.edu
+>>>>>>> eb490f2c2cdb2c228285ec495d06cc15640d1b89
